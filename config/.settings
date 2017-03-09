@@ -1,0 +1,17 @@
+{
+    "projectName": "Github classes",
+    "username": "mahadev@gmail.com",
+    "id": "c953c5f0-0507-11e7-885a-e74b449e81cb",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://cs43.salesforce.com",
+    "workspace": "C:\\Users\\mkothuri\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

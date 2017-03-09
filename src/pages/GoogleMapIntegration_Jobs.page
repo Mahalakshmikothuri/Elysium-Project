@@ -1,0 +1,13 @@
+<apex:page standardController="GW_Volunteers__Volunteer_Job__c">
+
+
+<apex:stylesheet value="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/themes/ui-lightness/jquery-ui.css" /> 
+ 
+ <p class="cssJobLocationMap">
+<iframe class="cssGoogleMapIFrame" 
+    src="https://www.google.com/maps/embed/v1/place?q={!GW_Volunteers__Volunteer_Job__c.GW_Volunteers__Location_Street__c}+{!GW_Volunteers__Volunteer_Job__c.GW_Volunteers__Location_City__c}+{!GW_Volunteers__Volunteer_Job__c.GW_Volunteers__Location__c}+{!GW_Volunteers__Volunteer_Job__c.GW_Volunteers__Location_Zip_Postal_Code__c}&key=AIzaSyCZ1yc5ne3LcN4-vh0NYergthLTy5aKNPk">
+</iframe>
+</p>
+ 
+
+</apex:page>

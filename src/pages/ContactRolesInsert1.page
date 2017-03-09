@@ -1,0 +1,31 @@
+<apex:page standardController="Opportunity" extensions="Opportunityext" action="{!updateststus}">
+    <apex:form >
+        <apex:pageBlock title="Contact Roles"
+            mode="edit" 
+            helpTitle="Contact Roles Help"
+            helpUrl="https://help.salesforce.com/htviewhelpdoc?id=contactroles_edit.htm">
+            <apex:pageBlockTable value="{!Opportunity.OpportunityContactRoles}" var="ContactRole">
+                <apex:column >
+                    <apex:facet name="header">
+                        Action
+                    </apex:facet>
+                    <a href="/p/opp/ContactRoleEditUi/e?oppid={!Opportunity.Id}&retURL=%2F{!Opportunity.Id}" target="_top">Edit</a>
+                </apex:column>
+                <apex:column >
+                    <apex:facet name="header"> Contact Name </apex:facet>
+                    <a href="/{!ContactRole.Contact.Id}" target="_top">{!ContactRole.Contact.Name} </a>
+                </apex:column>
+                <apex:column value="{!ContactRole.Contact.Account.Name}" headerValue="Account Name"/>
+                <apex:column value="{!ContactRole.Contact.Email}" headerValue="Email"/>
+                <apex:column value="{!ContactRole.Contact.Phone}" headerValue="Phone"/>
+                <apex:column value="{!ContactRole.Role}" headerValue="Role"/>
+                <apex:column value="{!ContactRole.Contact.Account.BillingCity},{!ContactRole.Contact.Account.BillingState},{!ContactRole.Contact.Account.BillingCountry}" headerValue="Bill To"/>
+                <apex:column value="{!ContactRole.Contact.MailingCity},{!ContactRole.Contact.MailingState},{!ContactRole.Contact.MailingCountry}" headerValue="Ship To"/>                
+                <apex:column value="{!ContactRole.IsPrimary}" headerValue="Is Primary"/>
+            </apex:pageBlockTable>    
+            <apex:pageBlockButtons location="top">
+                <input type="button" class="btn" value="New" onclick="javascript:window.open('/p/opp/ContactRoleEditUi/e?oppid={!Opportunity.Id}&retURL=%2F{!Opportunity.Id}','_top');"  />
+            </apex:pageBlockButtons>
+        </apex:pageBlock>    
+    </apex:form>
+</apex:page>
