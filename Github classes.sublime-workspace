@@ -1,1 +1,436 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tim",
+				"TIMBASURVEYS__Survey_Summary__c"
+			],
+			[
+				"W",
+				"WHERE"
+			],
+			[
+				"debu",
+				"debug(Enum_loglevel, Anydatatype_msg)"
+			],
+			[
+				"assert",
+				"assertEquals()"
+			],
+			[
+				"fi",
+				"FirstName"
+			],
+			[
+				"de",
+				"debug(Enum_loglevel, Anydatatype_msg)"
+			],
+			[
+				"acc",
+				"accname"
+			],
+			[
+				"a",
+				"accname"
+			],
+			[
+				"sa",
+				"SaveResult"
+			],
+			[
+				"con",
+				"conList"
+			],
+			[
+				"conta",
+				"Contact"
+			],
+			[
+				"ass",
+				"assertEquals()"
+			],
+			[
+				"accon",
+				"Account"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/classes/ContractRoleTriggerHandler.cls",
+			"settings":
+			{
+				"buffer_size": 6152,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "mavensmate",
+		"selected_items":
+		[
+			[
+				"mavensmate",
+				"MavensMate: Compile Project"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control settings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"MAVENSMATE WE",
+				"MavensMate: New Project..."
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 604.0
+	},
+	"console":
+	{
+		"height": 440.0,
+		"history":
+		[
+			"Compile Tabs",
+			"'Compile Tabs' ",
+			"super-shift-p",
+			"mmcp",
+			"super-shift-s",
+			"npm install mavensmate",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mkothuri/Documents/Github classes/src"
+	],
+	"file_history":
+	[
+		"/C/Users/mkothuri/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_AccountMerge_TDTM.cls",
+		"/C/Users/mkothuri/Documents/Elysium/Elysium.sublime-project",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/OPP_OpportunityContactRoles_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/aura/autocompleteOption/autocompleteOption.cmp",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_AccountMerge_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_AccountMerge_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_Accounts_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_Accounts_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_HHAccounts_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_HHAccounts_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_IndividualAccounts_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_IndividualAccounts_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_IndividualAccounts_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_IndividualAccounts_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_ViewOverride_CTRL.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_ViewOverride_CTRL.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_ViewOverride_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ACCT_ViewOverride_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Account_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Account_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Addresses_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Addresses_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Addresses_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Addresses_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Addresses_TEST2.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Addresses_TEST2.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Cicero_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Cicero_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Cicero_Validator.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Cicero_Validator.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Contact_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Contact_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_CopyAddrHHObjBTN_CTRL.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_CopyAddrHHObjBTN_CTRL.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_CopyAddrHHObjBTN_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_CopyAddrHHObjBTN_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_GoogleGeoAPI_Validator.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_GoogleGeoAPI_Validator.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_GoogleGeoAPI_Validator_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_GoogleGeoAPI_Validator_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_IValidator.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_IValidator.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_MockGoogleGeoAPIResponse_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_MockGoogleGeoAPIResponse_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_MockHttpRespGenerator_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_MockHttpRespGenerator_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Seasonal_SCHED.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Seasonal_SCHED.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_SmartyStreets_Gateway.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_SmartyStreets_Gateway.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_SmartyStreets_Validator.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_SmartyStreets_Validator.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validation_Gateway_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validation_Gateway_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_Batch.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_Batch.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_Batch_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_Batch_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_REST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_REST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ADDR_Validator_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/AFFL_Affiliations_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/AFFL_Affiliations_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/AFFL_Affiliations_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/AFFL_Affiliations_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Allocations_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Allocations_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Allocations_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Allocations_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_MakeDefaultAllocations_BATCH.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_MakeDefaultAllocations_BATCH.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_ManageAllocations_CTRL.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_ManageAllocations_CTRL.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_ManageAllocations_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_ManageAllocations_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Multicurrency_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Multicurrency_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Multicurrency_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Multicurrency_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Rollup_SCHED.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Rollup_SCHED.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Rollup_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_Rollup_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_RollupBTN_CTRL.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/ALLO_RollupBTN_CTRL.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDE_BatchDataEntry.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDE_BatchDataEntry.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDE_BatchDataEntry_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDE_BatchDataEntry_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDE_BatchEntry_CTRL.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDE_BatchEntry_CTRL.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDE_BatchEntry_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDE_BatchEntry_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_API.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_API.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_BATCH.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_BATCH.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_CTRL.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_CTRL.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_TEST2.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/BDI_DataImport_TEST2.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CAO_Constants.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CAO_Constants.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_AddToCampaign.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_AddToCampaign.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ChangeAccount_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ChangeAccount_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge_CTRL.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge_CTRL.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge_TDTM.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge_TDTM.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge_TEST2.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMerge_TEST2.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMergeTDTM_TEST.cls",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMergeTDTM_TEST.cls-meta.xml",
+		"/C/Users/mkothuri/Documents/NPSP - Cumulus/src/classes/CON_ContactMergeTDTM_TEST2.cls"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Program Files\\Sublime Text 3\\My FIrst apex demos\\src\\triggers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"mm_work",
+			"workspace",
+			"mm_work",
+			"Accept",
+			"accept",
+			"solved",
+			"accepted",
+			"accept",
+			"approved",
+			"static",
+			"[];\n",
+			"}",
+			"mm_compile accountTestTrggr",
+			"mm_compile",
+			"\t//set to desired Salesforce.com API version (tooling api functionality requires 27.0+)\ntooling api"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/classes/ContractRoleTriggerHandler.cls",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								724,
+								724
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 240.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "Github classes.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 577.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
